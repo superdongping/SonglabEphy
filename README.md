@@ -1,0 +1,1 @@
+sEPSC_sIPSC_V2.m is used to batch analysis sEPSC and sIPSC from the abf file from two different groups. sEPSC_sIPSC_V1_8.m is used to analyze all the abf files within the same folder. abfload.m is the function to extract the raw data traces from the abf files, including the data and data head.
